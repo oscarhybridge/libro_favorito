@@ -2,3 +2,5 @@ spacy
 pandas
 nltk
 jupyterlab
+scikit-learn
+matplotlib
