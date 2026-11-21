@@ -4,3 +4,5 @@ nltk
 jupyterlab
 scikit-learn
 matplotlib
+gensim
+numpy
